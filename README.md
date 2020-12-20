@@ -3,4 +3,4 @@ A Blog Project made using Express Framework (Node.js) , MongoDB &amp; EJS templa
 
 Link to Project : https://basic-social-app.herokuapp.com/
 
-Deployed on Heroku.
+Deployed on [Heroku.](https://www.heroku.com)
